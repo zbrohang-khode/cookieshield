@@ -1,0 +1,6 @@
+{
+  "name": "CookieShield Vault",
+  "description": "Secure client-side AES-256 cookie manager, auto-detector, and multi-format exporter supporting JSON, Netscape, and raw headers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
